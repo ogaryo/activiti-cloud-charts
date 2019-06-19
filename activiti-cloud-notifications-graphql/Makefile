@@ -13,7 +13,7 @@ GITHUB_CHARTS_BRANCH := $(or $(GITHUB_CHARTS_BRANCH),gh-pages)
 
 build: clean
 	helm init --client-only
-	helm repo add charts_activiti https://activiti.github.io/activiti-cloud-charts/
+	helm repo add charts_activiti https://github.com/ogaryo/activiti-cloud-charts/
 	helm repo add activiti-cloud-helm-charts https://activiti.github.io/activiti-cloud-helm-charts/
 	helm dependency build
 	helm lint
