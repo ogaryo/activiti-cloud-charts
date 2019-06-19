@@ -31,7 +31,7 @@ helm lint $chartname
 helm package $chartname
 mv $chartname*.tgz docs
 git pull
-helm repo index docs --url https://github.com/ogaryo/activiti-cloud-charts/
+helm repo index docs --url https://github.com/ogaryo/activiti-cloud-charts/tree/master/
 git add $chartname/Chart.yaml
 git add docs/$chartname-$newversion.tgz
 git add docs/index.yaml

@@ -1,10 +1,10 @@
 dependencies:
 - name: activiti-cloud-query
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 1.1.10
   condition: application.activiti-cloud-query.enabled,activiti-cloud-query.enabled
 - name: activiti-cloud-audit
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 1.1.10
   condition: application.activiti-cloud-audit.enabled,activiti-cloud-audit.enabled
 - alias: rabbitmq
@@ -18,23 +18,23 @@ dependencies:
   version: 3.11.3
   condition: application.postgres.enabled,postgres.enabled
 - name: activiti-cloud-demo-ui
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 0.1.10
   condition: application.activiti-cloud-demo-ui.enabled,activiti-cloud-demo-ui.enabled
 - name: runtime-bundle
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 1.1.10
   condition: application.runtime-bundle.enabled,runtime-bundle.enabled
 - name: activiti-cloud-connector
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 1.1.8
   condition: application.activiti-cloud-connector.enabled,activiti-cloud-connector.enabled
 - name: activiti-cloud-events-adapter
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 0.0.6
   condition: application.activiti-cloud-events-adapter.enabled,activiti-cloud-events-adapter.enabled
 - name: activiti-cloud-notifications-graphql
-  repository: https://github.com/ogaryo/activiti-cloud-charts/
+  repository: https://github.com/ogaryo/activiti-cloud-charts/tree/master/
   version: 1.1.11
   condition: application.activiti-cloud-notifications-graphql.enabled,activiti-cloud-notifications-graphql.enabled
   

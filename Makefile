@@ -50,7 +50,7 @@ $(foreach chart,$(CHARTS),$(chart)/release):
 	helm package $(CHART)
 	mv $(CHART)-$(VERSION).tgz docs	
 	git pull
-	helm repo index docs --url https://github.com/ogaryo/activiti-cloud-charts/
+	helm repo index docs --url https://github.com/ogaryo/activiti-cloud-charts/tree/master/
 	git add $(CHART)/* || true
 	git add docs/$(CHART)-$(VERSION).tgz
 	git add docs/index.yaml

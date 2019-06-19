@@ -9,7 +9,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0443433-07:00
@@ -18,7 +18,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0438395-07:00
@@ -27,7 +27,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0423413-07:00
@@ -36,7 +36,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0418426-07:00
@@ -45,7 +45,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0413437-07:00
@@ -54,7 +54,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0403459-07:00
@@ -63,7 +63,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0398467-07:00
@@ -72,7 +72,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.038848-07:00
@@ -81,7 +81,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0378497-07:00
@@ -90,7 +90,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0373506-07:00
@@ -99,7 +99,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0368517-07:00
@@ -108,7 +108,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0363525-07:00
@@ -117,7 +117,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0358534-07:00
@@ -126,7 +126,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0348554-07:00
@@ -135,7 +135,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0343562-07:00
@@ -144,7 +144,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0333588-07:00
@@ -153,7 +153,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0323601-07:00
@@ -162,7 +162,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0318608-07:00
@@ -171,7 +171,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0308632-07:00
@@ -180,7 +180,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0233771-07:00
@@ -189,7 +189,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.12.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0223791-07:00
@@ -198,7 +198,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0213807-07:00
@@ -207,7 +207,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0303642-07:00
@@ -216,7 +216,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0293659-07:00
@@ -225,7 +225,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0278685-07:00
@@ -234,7 +234,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0268705-07:00
@@ -243,7 +243,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0258726-07:00
@@ -252,7 +252,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0248747-07:00
@@ -261,7 +261,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0243756-07:00
@@ -270,7 +270,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0238776-07:00
@@ -279,7 +279,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0203822-07:00
@@ -288,7 +288,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0203822-07:00
@@ -297,7 +297,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-audit
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-audit-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-audit-0.1.0.tgz
     version: 0.1.0
   activiti-cloud-connector:
   - apiVersion: v1
@@ -308,7 +308,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0548183-07:00
@@ -317,7 +317,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.054319-07:00
@@ -326,7 +326,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0538201-07:00
@@ -335,7 +335,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0533211-07:00
@@ -344,7 +344,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0523233-07:00
@@ -353,7 +353,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0518239-07:00
@@ -362,7 +362,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0513248-07:00
@@ -371,7 +371,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0508255-07:00
@@ -380,7 +380,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0503266-07:00
@@ -389,7 +389,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0498276-07:00
@@ -398,7 +398,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0493283-07:00
@@ -407,7 +407,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0488295-07:00
@@ -416,7 +416,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.6.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0483301-07:00
@@ -425,7 +425,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.6.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0478311-07:00
@@ -434,7 +434,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0473323-07:00
@@ -443,7 +443,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0468329-07:00
@@ -452,7 +452,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0463343-07:00
@@ -461,7 +461,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0463343-07:00
@@ -470,7 +470,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0458351-07:00
@@ -479,7 +479,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.045336-07:00
@@ -488,7 +488,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0448367-07:00
@@ -497,7 +497,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-connector
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-connector-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-connector-0.1.0.tgz
     version: 0.1.0
   activiti-cloud-demo-ui:
   - apiVersion: v1
@@ -508,7 +508,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0613063-07:00
@@ -517,7 +517,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0608072-07:00
@@ -526,7 +526,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0603082-07:00
@@ -535,7 +535,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0598095-07:00
@@ -544,7 +544,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0593109-07:00
@@ -553,7 +553,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.058811-07:00
@@ -562,7 +562,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0583119-07:00
@@ -571,7 +571,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0573138-07:00
@@ -580,7 +580,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0558169-07:00
@@ -589,7 +589,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: activiti-cloud-demo-ui
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-demo-ui-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-demo-ui-0.1.1.tgz
     version: 0.1.1
   activiti-cloud-events-adapter:
   - apiVersion: v1
@@ -600,7 +600,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0643004-07:00
@@ -609,7 +609,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0638018-07:00
@@ -618,7 +618,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0628036-07:00
@@ -627,7 +627,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0623045-07:00
@@ -636,7 +636,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.0618054-07:00
@@ -645,7 +645,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-events-adapter
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-events-adapter-0.0.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-events-adapter-0.0.1.tgz
     version: 0.0.1
   activiti-cloud-full-example:
   - apiVersion: v1
@@ -656,7 +656,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.16.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.16.tgz
     version: 1.1.16
   - apiVersion: v1
     appVersion: 7.1.0.M1
@@ -666,7 +666,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.15.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.15.tgz
     version: 1.1.15
   - apiVersion: v1
     appVersion: 7.1.0.M1
@@ -676,7 +676,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.14.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.14.tgz
     version: 1.1.14
   - apiVersion: v1
     appVersion: 7.0.0.SR1
@@ -686,7 +686,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.13.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.13.tgz
     version: 1.1.13
   - apiVersion: v1
     appVersion: 7.0.0.SR1
@@ -696,7 +696,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.12.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.12.tgz
     version: 1.1.12
   - apiVersion: v1
     appVersion: 7.0.0.SR1
@@ -706,7 +706,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.11.tgz
     version: 1.1.11
   - apiVersion: v1
     appVersion: 7.0.0.SR1
@@ -716,7 +716,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     appVersion: 7.0.0.SR1
@@ -726,7 +726,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -736,7 +736,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -746,7 +746,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -756,7 +756,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -766,7 +766,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -776,7 +776,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -786,7 +786,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -796,7 +796,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: 7.0.0.GA
@@ -806,7 +806,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -816,7 +816,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -825,7 +825,7 @@ entries:
     digest: d2fb223d19483c9ffead076706ef08aeb1a1e9b4596249eab0f5c586628f4b4a
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.0.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -834,7 +834,7 @@ entries:
     digest: 5bbea8497f627a84babef2bc69a988b328cb295fe545634079d3d82d456e5270
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -843,7 +843,7 @@ entries:
     digest: 090cc1fa545b40acf87298220469f8c203a1a2a54ff903a011f974e335bba093
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.8.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.8.4.tgz
     version: 0.8.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -852,7 +852,7 @@ entries:
     digest: 548beed4728223dd809f0bfcbc97abf603ce269d851e0024b84d670b837eb339
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.8.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.8.3.tgz
     version: 0.8.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -861,7 +861,7 @@ entries:
     digest: f8a02dcea3ee02120737b4d6e19c8c3db4fa0ed1cb8d16de449bfa4b9f473659
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.8.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.8.2.tgz
     version: 0.8.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -870,7 +870,7 @@ entries:
     digest: 9923a43ed86c78c3086d550be90d8044b78063bbdbb7a2351b8940b5f6ebfa00
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.8.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -879,7 +879,7 @@ entries:
     digest: ca9bffaac365b046a1d991ba48f152cce26e863bed4e539e73aad0d2b36f63bd
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -888,7 +888,7 @@ entries:
     digest: da1b928776751b7b848435db240cbeeb20e358cd121fc88c0f9f32d356224707
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.7.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -897,7 +897,7 @@ entries:
     digest: b84fce50244437d8b93a8c48ca88a6850f9ea964edb69eb83dc0955aaff345a6
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.7.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -906,7 +906,7 @@ entries:
     digest: 659ded6b594851757b8e6c7e57cc439afc2e263acde931c60c52944270b04241
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -915,7 +915,7 @@ entries:
     digest: 048613ad6a6a590129f691a0c9661bcae6f8fd54fd0573a8775fc2e346f52aaa
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.6.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -924,7 +924,7 @@ entries:
     digest: 6d1bdd3f5ab8c946c37c3d9223e74838913163007f02bcd9955f66f64e38c1fc
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.6.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -933,7 +933,7 @@ entries:
     digest: 14e40edfd277e20295e6fae015b115f8b7ace1cb6cefcf1583a5e2688ecc0d2e
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -942,7 +942,7 @@ entries:
     digest: 4cc35cfe3d52aad104d6b05f7414e48c397ae1c6f27e40a3165ef473c5e13b6c
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -951,7 +951,7 @@ entries:
     digest: 3ab97d3ddb9788c1516ca4f4eb5144f4e481d3a886be66143a0bbebf42215c6e
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.5.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -960,7 +960,7 @@ entries:
     digest: 04690160dde73128f2505659e40bdcd97515025c8c530e9e399f666a1c9252a0
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -969,7 +969,7 @@ entries:
     digest: c710635e7e506d97798eb85f0573a370db08915b98af232b3e180abc7f9e5101
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -978,7 +978,7 @@ entries:
     digest: de35511735076bf0b27c36ddcbb29672083c5b2e1404d5648a0e794d8be6c9a0
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -987,7 +987,7 @@ entries:
     digest: 157c7d015b89d2a0acd82e6ae601a23b87e134cebe525f416ee28e12dc2931a5
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.10.tgz
     version: 0.2.10
   - apiVersion: v1
     appVersion: "1.0"
@@ -996,7 +996,7 @@ entries:
     digest: c8647685505b2238fce4e293055c704102ea0a291b0c1bdd2eef159305c3363b
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.9.tgz
     version: 0.2.9
   - apiVersion: v1
     appVersion: "1.0"
@@ -1005,7 +1005,7 @@ entries:
     digest: 706a1f723a8dcfa85a5fd68106270a4e3e6edf713c1d77e704301621b60136c1
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.8.tgz
     version: 0.2.8
   - apiVersion: v1
     appVersion: "1.0"
@@ -1014,7 +1014,7 @@ entries:
     digest: 0ada8cd23890aeea0c29471268fb874b34d1a1f24218b3b5b63e45f842f2f16b
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.7.tgz
     version: 0.2.7
   - apiVersion: v1
     appVersion: "1.0"
@@ -1023,7 +1023,7 @@ entries:
     digest: 2f742603151cdf37ab0c26d5412b45ae70532524af0bf3c9373ca43627060d82
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.6.tgz
     version: 0.2.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -1032,7 +1032,7 @@ entries:
     digest: 3ce1a67f886ac89e629e6c8dbfbe2cd69d48b1c741faf7366f2d53a80753c1f9
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.5.tgz
     version: 0.2.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -1041,7 +1041,7 @@ entries:
     digest: 5cdf7c424751522566cf6e22f8d197fdb083e789ad3386363fd2fca0492d2ccf
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -1050,7 +1050,7 @@ entries:
     digest: 760a7f5e1b3443fcb2d47abd892016bd0f568280a33eb038400f4f7a0004eca4
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -1059,7 +1059,7 @@ entries:
     digest: 8963dc496c0f9d76d3cfb77a441489aee60309aa0d368f6a1f013d5c74b3f5bd
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -1068,7 +1068,7 @@ entries:
     digest: f99b75824cdd76981b98b986be47a4a61e1ecfda64223cf608831e89cc3ffb5b
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -1077,7 +1077,7 @@ entries:
     digest: 502be0200a66e74a7ea47d014ef322efaea55e0effd99bdbd3c8df3905c1005f
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -1086,7 +1086,7 @@ entries:
     digest: 5ba028e9a2dc26d0e92abdfafe156bdcb594e21e9e1002380a36154c32045dd7
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -1095,7 +1095,7 @@ entries:
     digest: cfc9d60f3c04900a81d7edc68e0ac585031e76ede3d9ff8037f68ef3d2b5bbbd
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -1104,7 +1104,7 @@ entries:
     digest: 6638ff4f9022d64bece9f500136a0001da9e8da2043320edfbbe47d50a337a18
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -1113,7 +1113,7 @@ entries:
     digest: 582b0212e17132b0d10fc3f6b9b56fc3243ae7d16ffbb89f9ee418d78d849747
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -1122,7 +1122,7 @@ entries:
     digest: c3efdf54eb6f577701b631a5c9228d7610b27d9d7de52af2e2ce52b5af7bd493
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -1131,7 +1131,7 @@ entries:
     digest: 283ea13a1a0000dad845c2b0f43887bf0c41008fc124792c471978c25344071d
     name: activiti-cloud-full-example
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-full-example-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-full-example-0.1.0.tgz
     version: 0.1.0
   activiti-cloud-gateway:
   - apiVersion: v1
@@ -1142,7 +1142,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4106559-07:00
@@ -1151,7 +1151,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4101568-07:00
@@ -1160,7 +1160,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4096575-07:00
@@ -1169,7 +1169,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4086598-07:00
@@ -1178,7 +1178,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4081606-07:00
@@ -1187,7 +1187,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4076615-07:00
@@ -1196,7 +1196,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4071627-07:00
@@ -1205,7 +1205,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4061642-07:00
@@ -1214,7 +1214,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4051665-07:00
@@ -1223,7 +1223,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4041683-07:00
@@ -1232,7 +1232,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4041683-07:00
@@ -1241,7 +1241,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4036692-07:00
@@ -1250,7 +1250,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4031711-07:00
@@ -1259,7 +1259,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4026709-07:00
@@ -1268,7 +1268,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.402172-07:00
@@ -1277,7 +1277,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4016728-07:00
@@ -1286,7 +1286,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4011737-07:00
@@ -1295,7 +1295,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4006747-07:00
@@ -1304,7 +1304,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4001755-07:00
@@ -1313,7 +1313,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.3996765-07:00
@@ -1322,7 +1322,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.3996765-07:00
@@ -1331,7 +1331,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.3991778-07:00
@@ -1340,7 +1340,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-gateway
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-gateway-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-gateway-0.1.0.tgz
     version: 0.1.0
   activiti-cloud-modeling:
   - apiVersion: v1
@@ -1351,7 +1351,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4256278-07:00
@@ -1360,7 +1360,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4246299-07:00
@@ -1369,7 +1369,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4241309-07:00
@@ -1378,7 +1378,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4236319-07:00
@@ -1387,7 +1387,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4226334-07:00
@@ -1396,7 +1396,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4221342-07:00
@@ -1405,7 +1405,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4216351-07:00
@@ -1414,7 +1414,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4206376-07:00
@@ -1423,7 +1423,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4191398-07:00
@@ -1432,7 +1432,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4186407-07:00
@@ -1441,7 +1441,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4176428-07:00
@@ -1450,7 +1450,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4171436-07:00
@@ -1459,7 +1459,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.8.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4171436-07:00
@@ -1468,7 +1468,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4166447-07:00
@@ -1477,7 +1477,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4161457-07:00
@@ -1486,7 +1486,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4156467-07:00
@@ -1495,7 +1495,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4151475-07:00
@@ -1504,7 +1504,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4146486-07:00
@@ -1513,7 +1513,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4141494-07:00
@@ -1522,7 +1522,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4136503-07:00
@@ -1531,7 +1531,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.2.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.413151-07:00
@@ -1540,7 +1540,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.2.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4126519-07:00
@@ -1549,7 +1549,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.2.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4121529-07:00
@@ -1558,7 +1558,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.2.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4116541-07:00
@@ -1567,7 +1567,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-modeling
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-modeling-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-modeling-0.2.0.tgz
     version: 0.2.0
   activiti-cloud-notifications-graphql:
   - apiVersion: v1
@@ -1578,7 +1578,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.11.tgz
     version: 1.1.11
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4291213-07:00
@@ -1587,7 +1587,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4351107-07:00
@@ -1596,7 +1596,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4341122-07:00
@@ -1605,7 +1605,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4336133-07:00
@@ -1614,7 +1614,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.432615-07:00
@@ -1623,7 +1623,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4321159-07:00
@@ -1632,7 +1632,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.431617-07:00
@@ -1641,7 +1641,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4311176-07:00
@@ -1650,7 +1650,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4301197-07:00
@@ -1659,7 +1659,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4281232-07:00
@@ -1668,7 +1668,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4276243-07:00
@@ -1677,7 +1677,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4271251-07:00
@@ -1686,7 +1686,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.426626-07:00
@@ -1695,7 +1695,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4261268-07:00
@@ -1704,7 +1704,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-notifications-graphql
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-notifications-graphql-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-notifications-graphql-0.7.0.tgz
     version: 0.7.0
   activiti-cloud-query:
   - apiVersion: v1
@@ -1715,7 +1715,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.460064-07:00
@@ -1724,7 +1724,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.459066-07:00
@@ -1733,7 +1733,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4585669-07:00
@@ -1742,7 +1742,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4580678-07:00
@@ -1751,7 +1751,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4575688-07:00
@@ -1760,7 +1760,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4570696-07:00
@@ -1769,7 +1769,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4560714-07:00
@@ -1778,7 +1778,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4555722-07:00
@@ -1787,7 +1787,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4540747-07:00
@@ -1796,7 +1796,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.453576-07:00
@@ -1805,7 +1805,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4530766-07:00
@@ -1814,7 +1814,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4525776-07:00
@@ -1823,7 +1823,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4520789-07:00
@@ -1832,7 +1832,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4515796-07:00
@@ -1841,7 +1841,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4500819-07:00
@@ -1850,7 +1850,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4490837-07:00
@@ -1859,7 +1859,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4485846-07:00
@@ -1868,7 +1868,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.447587-07:00
@@ -1877,7 +1877,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4465886-07:00
@@ -1886,7 +1886,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4386039-07:00
@@ -1895,7 +1895,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4381049-07:00
@@ -1904,7 +1904,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4460893-07:00
@@ -1913,7 +1913,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4450914-07:00
@@ -1922,7 +1922,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4445921-07:00
@@ -1931,7 +1931,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4435941-07:00
@@ -1940,7 +1940,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.442596-07:00
@@ -1949,7 +1949,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4420971-07:00
@@ -1958,7 +1958,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4410992-07:00
@@ -1967,7 +1967,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4401012-07:00
@@ -1976,7 +1976,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4371066-07:00
@@ -1985,7 +1985,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.4361087-07:00
@@ -1994,7 +1994,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: activiti-cloud-query
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-cloud-query-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-cloud-query-0.1.0.tgz
     version: 0.1.0
   activiti-keycloak:
   - apiVersion: v1
@@ -2005,7 +2005,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2015,7 +2015,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2025,7 +2025,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2035,7 +2035,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2045,7 +2045,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2055,7 +2055,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2065,7 +2065,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2074,7 +2074,7 @@ entries:
     digest: e7380e4657924f0393198bd854cace8e34b9476cee3ca259bc2b93f19c6dccbe
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2083,7 +2083,7 @@ entries:
     digest: ee71b12b92db77185b8096f084ae016ae3db3f48f019dc57be457fa98233df25
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.2.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2092,7 +2092,7 @@ entries:
     digest: dbfde8baad1dbea29c92a73db9bd682e32bb027febd16cdd934e5f538b99d3cc
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2101,7 +2101,7 @@ entries:
     digest: b6f0cd46648a23d082832ee67b2bcc835e0b35e949eb131cdd8a7ebeba7b1197
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2110,7 +2110,7 @@ entries:
     digest: e771fc3bbfaf9fd82633b69fb4da31703599ea6e99bd46bbc962e8d37a8494bb
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2119,7 +2119,7 @@ entries:
     digest: 78c113f83e573aaf071d751660bc227aca802d1075c37fd23e822241ef025075
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2128,7 +2128,7 @@ entries:
     digest: 06610cb044a92d1e36c2bc3ff93d5c9154b2f6159019b1890e2982596d3e182c
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2137,7 +2137,7 @@ entries:
     digest: 1147bef89ca31a2a691a2ab3c75ff9af4d018458012846dddb0206d8dcbc2abc
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2146,7 +2146,7 @@ entries:
     digest: f9d4e38adc38aaa5928068868776b1700024c6c38e066e504a70b3a9a983f6d8
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2155,7 +2155,7 @@ entries:
     digest: e39cdcf119bb1f255cc00dce4a510bbd5830cfb5d8a0fb33b79d658638e0b864
     name: activiti-keycloak
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/activiti-keycloak-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/activiti-keycloak-0.1.0.tgz
     version: 0.1.0
   application:
   - apiVersion: v1
@@ -2166,7 +2166,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.12.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.12.tgz
     version: 1.1.12
   - apiVersion: v1
     appVersion: "1.0"
@@ -2176,7 +2176,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.11.tgz
     version: 1.1.11
   - apiVersion: v1
     appVersion: "1.0"
@@ -2186,7 +2186,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     appVersion: "1.0"
@@ -2196,7 +2196,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     appVersion: "1.0"
@@ -2206,7 +2206,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     appVersion: "1.0"
@@ -2216,7 +2216,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     appVersion: "1.0"
@@ -2226,7 +2226,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2236,7 +2236,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2246,7 +2246,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2256,7 +2256,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2266,7 +2266,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2276,7 +2276,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2286,7 +2286,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2295,7 +2295,7 @@ entries:
     digest: 4001e341f64a5cb5565108b403862e6e0e1efec36868b5d758f73630be3a55bc
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.0.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2304,7 +2304,7 @@ entries:
     digest: 8fb5c7371e5fa959261c1988c08b9672b6e0e171c60c7f9632bb12465a343c3e
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2313,7 +2313,7 @@ entries:
     digest: 1e82afae83157d7b043b64621bef38facb01ca22649b71012b3787302be84ac5
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.8.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.8.2.tgz
     version: 0.8.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2322,7 +2322,7 @@ entries:
     digest: 31e6b8fd40c33822127d250ce8fb3d8372342599d1bfe94eac5810083224121c
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.8.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2331,7 +2331,7 @@ entries:
     digest: 345d0c3d63896592e5e3db1cc68c8c4602eed68df7a8740125aaf2c27f5739b1
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2340,7 +2340,7 @@ entries:
     digest: 665e60d3f78f55383850d8ac9fe3f2146a856aa3ce9234384a84f5cd074648a7
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.7.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.7.2.tgz
     version: 0.7.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2349,7 +2349,7 @@ entries:
     digest: 69f3f63094119013e2a6e51295ce3d95c5180088e75d413d4c83b1f627dc6e15
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.7.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2358,7 +2358,7 @@ entries:
     digest: 1e3a106916feb75b83f04d6de53f8efb2674f67b521715012edfa696cddb3c6d
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2367,7 +2367,7 @@ entries:
     digest: fa2c0c1d153319d4b92e7b853dfaf2280fb1cb36ec243d0c6ff383f180603a22
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.6.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2376,7 +2376,7 @@ entries:
     digest: 1d8524ef2831aaf4df2a1cdf321be608aeb2883689a42b4a27776c3d4802fb69
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.6.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2385,7 +2385,7 @@ entries:
     digest: e25b23498d0414703f99cd711b9cca7c84e466d0c9091ac58a2ad0dea786ed02
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2394,7 +2394,7 @@ entries:
     digest: 990ffafc0545985f5d043cac792cc88ba3362a995382fc60393d6fcc4a074e91
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2403,7 +2403,7 @@ entries:
     digest: 53fb5520d74b3eb975ede48e017f7592f28acd1aa11dfd52f0cc4b50506f2f21
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2412,7 +2412,7 @@ entries:
     digest: 2030d01deec2aaf21e473320264d39bb54621c7abaf68aa051fe0120644c62af
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2421,7 +2421,7 @@ entries:
     digest: dca57aad4dd583f2452fc4bd70b306c739d0e70f268e39bd3625f49ae195c94f
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2430,7 +2430,7 @@ entries:
     digest: 97f9d187b87727f8d67a4f0028e3f0de4f31cd18250e22b9fc12d4048febf014
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.2.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2439,7 +2439,7 @@ entries:
     digest: c05b95b924499f06a0d5e1f3bd77c3709378c342e6cde3a88345d6620b6c5a40
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.2.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2448,7 +2448,7 @@ entries:
     digest: 142b16aeab97b8fc0477bb0eedbed5e9046aa9c6a9a58eb0bd2f8106282d7877
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2457,7 +2457,7 @@ entries:
     digest: 6a058a54683e68405a66df1097e3426b381a5f993b8792717547e304b2c35526
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.17.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v1
     appVersion: "1.0"
@@ -2466,7 +2466,7 @@ entries:
     digest: 0c975041a8a81e609e57d97e4ac3cb5b046950aca89531442cda57c207230af2
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.16.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v1
     appVersion: "1.0"
@@ -2475,7 +2475,7 @@ entries:
     digest: f4ee0783c944422aea7dcacf1c79f5ab634920165f00a0b47723b910e467721b
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.15.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v1
     appVersion: "1.0"
@@ -2484,7 +2484,7 @@ entries:
     digest: 5a95f9144d99aca24b9252708fbb994c49062cdf599e2835a2f26d9f820495f6
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.14.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.14.tgz
     version: 0.1.14
   - apiVersion: v1
     appVersion: "1.0"
@@ -2493,7 +2493,7 @@ entries:
     digest: 66c001b1ef054c6df77e0a19cba61172f8d3c9cca00c14692bc41b7e7b566ce3
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.13.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v1
     appVersion: "1.0"
@@ -2502,7 +2502,7 @@ entries:
     digest: 84f44cc1871f7c232dbd655c4b692dc45e670dc2687f3d72df2de3724c12a18c
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.12.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v1
     appVersion: "1.0"
@@ -2511,7 +2511,7 @@ entries:
     digest: 41b2e8979fdfab7597555990832aaad375da63bea2b802caa00694a1d0874521
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.11.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v1
     appVersion: "1.0"
@@ -2520,7 +2520,7 @@ entries:
     digest: 4a2a0d9808242e46d1ffb8993ace40dd76ad8079e6ba875ef05e7a7df3477e18
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v1
     appVersion: "1.0"
@@ -2529,7 +2529,7 @@ entries:
     digest: c1ef8edf641261ff0341c2c9f8f1e36b0ed7fabdff0cb52645c47c811bfff70d
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: "1.0"
@@ -2538,7 +2538,7 @@ entries:
     digest: 0f21ec3711845f90a2604ad7e62a610e9e0ac010528b4e4dffa6fac607aa9414
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: "1.0"
@@ -2547,7 +2547,7 @@ entries:
     digest: 588fbb708f0661611506f58f3b52a30852ef71361265dfdb29debb20e6db4c75
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: "1.0"
@@ -2556,7 +2556,7 @@ entries:
     digest: 608a38417d872f2481278fbbf292b0349f10fdcbf6b58f2345a395284027b0e9
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2565,7 +2565,7 @@ entries:
     digest: c2b9ce3c8baaa06461accdf212dc25d7c7d6387fe7bd2aa4fa9eb4827eea12e9
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2574,7 +2574,7 @@ entries:
     digest: 061e8641e4dceb18d5144c912e3f501daf08ad103ee43653a82f19d53ab2d6da
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2583,7 +2583,7 @@ entries:
     digest: 5cb03c8c20f8dab6df5c5185b9e5ce2c9d907c9cd95ed4535fc490d20791eab6
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2592,7 +2592,7 @@ entries:
     digest: 717fa9aeb285714f0a0ff989136b626c7fa85477016f0923d4e26d0984ab68f8
     name: application
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/application-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/application-0.1.2.tgz
     version: 0.1.2
   common:
   - apiVersion: v1
@@ -2602,7 +2602,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.6606904-07:00
@@ -2611,7 +2611,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.6606904-07:00
@@ -2620,7 +2620,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.6601915-07:00
@@ -2629,7 +2629,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.6596921-07:00
@@ -2638,7 +2638,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.6591933-07:00
@@ -2647,7 +2647,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: common
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/common-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/common-1.1.0.tgz
     version: 1.1.0
   example-runtime-bundle:
   - apiVersion: v1
@@ -2657,7 +2657,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: example-runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/example-runtime-bundle-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/example-runtime-bundle-0.1.0.tgz
     version: 0.1.0
   infrastructure:
   - apiVersion: v1
@@ -2668,7 +2668,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     appVersion: "1.0"
@@ -2678,7 +2678,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     appVersion: "1.0"
@@ -2688,7 +2688,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     appVersion: "1.0"
@@ -2698,7 +2698,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2708,7 +2708,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2718,7 +2718,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2728,7 +2728,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2738,7 +2738,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2748,7 +2748,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2758,7 +2758,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2767,7 +2767,7 @@ entries:
     digest: 9b762ee82ecbe2951a061bdd0eb4e040b17069069a8b2d42e9d720afd7b6a593
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2776,7 +2776,7 @@ entries:
     digest: dec1ad58dfbbc956dbfa086d14b9d7220abd5b45f437791826602c7232dbe1d7
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.8.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.8.1.tgz
     version: 0.8.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2785,7 +2785,7 @@ entries:
     digest: d67f59f9f5f2a2eccb9d8225cd839ec173f5e80aac6dc55738c6e9f9250de734
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2794,7 +2794,7 @@ entries:
     digest: 456606224b1f42fc39610e18733f1575e6073da9baf9bc81790299cbd34175c6
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2803,7 +2803,7 @@ entries:
     digest: a26cfcb6a944b0f4ebdcd8aca02a8d2071a29b25a1ded70942247f74b62a4656
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2812,7 +2812,7 @@ entries:
     digest: db80e133f53510bba6120f22b800c8f1f08d968a917c68c66510c7ddef63c3cb
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2821,7 +2821,7 @@ entries:
     digest: d0b4ff78c3d00ff6ec03fb6817e102dc48b0e06b8fc30ee20f12a54e5cce0455
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.5.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.5.1.tgz
     version: 0.5.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2830,7 +2830,7 @@ entries:
     digest: 0cfed85887ec4ce02407dd6b742be2685ab2bfbf9a90b92e1d99b625cbf9e948
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2839,7 +2839,7 @@ entries:
     digest: 0a8181a79969acc97f59e5fff537e5273d46865c5ec1597749a134850fef2848
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2848,7 +2848,7 @@ entries:
     digest: 331ee3637d73c31e098c3c8269e7d9aa7ba07f60a191e04f02b227a4de2830ff
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2857,7 +2857,7 @@ entries:
     digest: 4770157c6766aec8ccf91eb58a0db0cf6715f812a4b73c32496a263fb88372c4
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.2.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2866,7 +2866,7 @@ entries:
     digest: 1bf9cc1b94922ac66f9ee3192404184f58af770daa695bd4e3070e6be131ded1
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.2.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2875,7 +2875,7 @@ entries:
     digest: 5e27d9a229e0d8cba0a5c6eb98eb77640257de192e18f334a02fc2f4256d5d9f
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -2884,7 +2884,7 @@ entries:
     digest: 09a825b7ba2efc3435ef3dcd4f58483a0666015cfc06ae9eedc507367cfa95f7
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     appVersion: "1.0"
@@ -2893,7 +2893,7 @@ entries:
     digest: b4177024329ff9818b8e0e12274661cf76307eaf632d490d338d2a11ab56c15f
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     appVersion: "1.0"
@@ -2902,7 +2902,7 @@ entries:
     digest: e51cd83637f23c5f6e2503fc1d45c310a67f80d11d6100f3bc9a27374cdd83f0
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: "1.0"
@@ -2911,7 +2911,7 @@ entries:
     digest: cb28d1a67f2a869467af0c11a86bb626a27c544cd16820c9828f03702d110392
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.0"
@@ -2920,7 +2920,7 @@ entries:
     digest: b5cf63959c1f33027177ae2421386ddb9fcdfd884fcbf691b301d7f56b1f5438
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.0"
@@ -2929,7 +2929,7 @@ entries:
     digest: 4afa8b9cd9452378b98ede0292f8ef2c328d2ef192f9ed574099afc60a1ccfea
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
@@ -2938,7 +2938,7 @@ entries:
     digest: 6dff48e1200cd77af99148869bb1806b8220caf20bdad46120b8c6eddd1e446a
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
@@ -2947,7 +2947,7 @@ entries:
     digest: fa531b2b3ac7bc0c4ac4abb1ea734e87c5693667ca5038a57c52e14e6d58a672
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -2956,7 +2956,7 @@ entries:
     digest: a8061702bb9f2717680b167d91c5a8eb6d8554af65cf9a9d39c8028cf6ed9ce6
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -2965,7 +2965,7 @@ entries:
     digest: 8250adfff3088ef779d03ffcc53824638911890ed8ceafa42ed9683f4f1e4273
     name: infrastructure
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/infrastructure-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/infrastructure-0.1.0.tgz
     version: 0.1.0
   runtime-bundle:
   - apiVersion: v1
@@ -2976,7 +2976,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.10.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.10.tgz
     version: 1.1.10
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7654946-07:00
@@ -2985,7 +2985,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.9.tgz
     version: 1.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7649953-07:00
@@ -2994,7 +2994,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.8.tgz
     version: 1.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7644966-07:00
@@ -3003,7 +3003,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7639974-07:00
@@ -3012,7 +3012,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7629995-07:00
@@ -3021,7 +3021,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7620009-07:00
@@ -3030,7 +3030,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7615018-07:00
@@ -3039,7 +3039,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7605037-07:00
@@ -3048,7 +3048,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7595057-07:00
@@ -3057,7 +3057,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7590067-07:00
@@ -3066,7 +3066,7 @@ entries:
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7580086-07:00
@@ -3075,7 +3075,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.0.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7575099-07:00
@@ -3084,7 +3084,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-1.0.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7570107-07:00
@@ -3093,7 +3093,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.8.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7565118-07:00
@@ -3102,7 +3102,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.7.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7555131-07:00
@@ -3111,7 +3111,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.6.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7545155-07:00
@@ -3120,7 +3120,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.6.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.6.2.tgz
     version: 0.6.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7535173-07:00
@@ -3129,7 +3129,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.6.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7525192-07:00
@@ -3138,7 +3138,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.6.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7520202-07:00
@@ -3147,7 +3147,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.5.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.751022-07:00
@@ -3156,7 +3156,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.4.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7500239-07:00
@@ -3165,7 +3165,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.3.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7495245-07:00
@@ -3174,7 +3174,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.2.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7485269-07:00
@@ -3183,7 +3183,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.9.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7475287-07:00
@@ -3192,7 +3192,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.8.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7465308-07:00
@@ -3201,7 +3201,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.7.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7455323-07:00
@@ -3210,7 +3210,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.6.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7445339-07:00
@@ -3219,7 +3219,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.5.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7435355-07:00
@@ -3228,7 +3228,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.4.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7430365-07:00
@@ -3237,7 +3237,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.3.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7420382-07:00
@@ -3246,7 +3246,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.2.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7410399-07:00
@@ -3255,7 +3255,7 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.1.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     created: 2019-05-13T17:23:25.7405413-07:00
@@ -3264,6 +3264,6 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: runtime-bundle
     urls:
-    - https://github.com/ogaryo/activiti-cloud-charts/runtime-bundle-0.1.0.tgz
+    - https://github.com/ogaryo/activiti-cloud-charts/tree/master/runtime-bundle-0.1.0.tgz
     version: 0.1.0
 generated: 2019-05-13T17:23:25.0193845-07:00
